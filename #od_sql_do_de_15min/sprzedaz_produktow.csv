@@ -1,0 +1,51 @@
+order_id,order_date,product_name,category,quantity,unit_price,country
+1,2024-01-05,Laptop Pro 15,Elektronika,2,4500.00,Polska
+2,2024-01-05,Myszka bezprzewodowa,Akcesoria,10,89.99,Polska
+3,2024-01-07,Monitor 27 cali,Elektronika,3,1299.00,Niemcy
+4,2024-01-08,Klawiatura mechaniczna,Akcesoria,5,349.00,Polska
+5,2024-01-10,Laptop Pro 15,Elektronika,1,4500.00,Francja
+6,2024-01-12,Słuchawki Bluetooth,Akcesoria,8,199.00,Polska
+7,2024-01-15,Monitor 27 cali,Elektronika,2,1299.00,Polska
+8,2024-01-18,Kamera internetowa HD,Akcesoria,15,149.00,Niemcy
+9,2024-01-20,Laptop Pro 15,Elektronika,3,4500.00,Polska
+10,2024-01-22,Myszka bezprzewodowa,Akcesoria,20,89.99,Francja
+11,2024-01-25,Tablet 10 cali,Elektronika,4,2199.00,Polska
+12,2024-01-28,Klawiatura mechaniczna,Akcesoria,7,349.00,Niemcy
+13,2024-02-01,Laptop Pro 15,Elektronika,2,4500.00,Polska
+14,2024-02-03,Słuchawki Bluetooth,Akcesoria,12,199.00,Polska
+15,2024-02-05,Monitor 27 cali,Elektronika,5,1299.00,Francja
+16,2024-02-08,Myszka bezprzewodowa,Akcesoria,25,89.99,Polska
+17,2024-02-10,Kamera internetowa HD,Akcesoria,10,149.00,Polska
+18,2024-02-12,Tablet 10 cali,Elektronika,2,2199.00,Niemcy
+19,2024-02-15,Laptop Pro 15,Elektronika,1,4500.00,Polska
+20,2024-02-18,Klawiatura mechaniczna,Akcesoria,6,349.00,Francja
+21,2024-02-20,Słuchawki Bluetooth,Akcesoria,15,199.00,Polska
+22,2024-02-22,Monitor 27 cali,Elektronika,3,1299.00,Polska
+23,2024-02-25,Myszka bezprzewodowa,Akcesoria,30,89.99,Niemcy
+24,2024-02-28,Laptop Pro 15,Elektronika,4,4500.00,Polska
+25,2024-03-01,Tablet 10 cali,Elektronika,3,2199.00,Polska
+26,2024-03-03,Kamera internetowa HD,Akcesoria,8,149.00,Francja
+27,2024-03-05,Klawiatura mechaniczna,Akcesoria,10,349.00,Polska
+28,2024-03-08,Monitor 27 cali,Elektronika,4,1299.00,Niemcy
+29,2024-03-10,Słuchawki Bluetooth,Akcesoria,20,199.00,Polska
+30,2024-03-12,Laptop Pro 15,Elektronika,2,4500.00,Polska
+31,2024-03-15,Myszka bezprzewodowa,Akcesoria,15,89.99,Francja
+32,2024-03-18,Tablet 10 cali,Elektronika,5,2199.00,Polska
+33,2024-03-20,Kamera internetowa HD,Akcesoria,12,149.00,Polska
+34,2024-03-22,Klawiatura mechaniczna,Akcesoria,4,349.00,Niemcy
+35,2024-03-25,Monitor 27 cali,Elektronika,6,1299.00,Polska
+36,2024-03-28,Laptop Pro 15,Elektronika,3,4500.00,Francja
+37,2024-03-30,Słuchawki Bluetooth,Akcesoria,18,199.00,Polska
+38,2024-04-02,Myszka bezprzewodowa,Akcesoria,22,89.99,Niemcy
+39,2024-04-05,Tablet 10 cali,Elektronika,2,2199.00,Polska
+40,2024-04-08,Kamera internetowa HD,Akcesoria,6,149.00,Polska
+41,2024-04-10,Laptop Pro 15,Elektronika,1,4500.00,Polska
+42,2024-04-12,Klawiatura mechaniczna,Akcesoria,8,349.00,Francja
+43,2024-04-15,Monitor 27 cali,Elektronika,2,1299.00,Polska
+44,2024-04-18,Słuchawki Bluetooth,Akcesoria,10,199.00,Niemcy
+45,2024-04-20,Myszka bezprzewodowa,Akcesoria,35,89.99,Polska
+46,2024-04-22,Tablet 10 cali,Elektronika,4,2199.00,Polska
+47,2024-04-25,Laptop Pro 15,Elektronika,2,4500.00,Niemcy
+48,2024-04-28,Kamera internetowa HD,Akcesoria,14,149.00,Polska
+49,2024-04-30,Klawiatura mechaniczna,Akcesoria,9,349.00,Polska
+50,2024-05-02,Monitor 27 cali,Elektronika,3,1299.00,Francja
